@@ -1,0 +1,19 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.7f1 (6bd9e232123f) revision 7068130'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 7997 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Reese Rivera/Documents/REESE/Y04S01/game dev/Code-Along-Progress
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51621
+Successfully changed project path to: C:/Users/Reese Rivera/Documents/REESE/Y04S01/game dev/Code-Along-Progress
